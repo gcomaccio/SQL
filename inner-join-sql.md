@@ -1,3 +1,4 @@
+Lição de SQL 7: JOINS INTERNOS
 Consultas multi-tabela com JOINs
 Tabelas que compartilham informações sobre uma única entidade precisam ter uma chave primária que identifique essa entidade é única em todo o banco de dados. Um tipo comum de chave primária é o auto-incremento inteiro (porque são eficientes em espaço), mas também pode ser uma cadeia de caracteres, valor hashado, desde que é único.
 
