@@ -1,1 +1,10 @@
-SQL, ou Structured Query Language, é uma linguagem projetada que usuários consultem, manipule e transforme dados de um banco de dados relacional. Existem diversos SGBDs de banco de dados como SQLite, Postegres, Oracle, mas na minha jornada, estarei utilizando o MySQL, pois ja estou familiarizado com o software. O QUÊ SERIA UM BANCO DE DADOS RELACIONAL? Bom, um banco de dados relacional, representa uma coleção de tabelas relacionadas (bidimensionais). As tabelas são semelhantes as tabelas do EXCEL, com número de linhas, tuplas ou registros e colunas, campos ou atributos.
+SQL, ou Structured Query Language, é uma linguagem projetada que usuários consultem, manipule e transforme dados de um banco de dados relacional.
+Existem diversos SGBDs de banco de dados como: 
+
+#SQLite; 
+#Postegres; 
+#Oracle;
+#MySQL -> USO ESTE
+
+O QUÊ SERIA UM BANCO DE DADOS RELACIONAL? Bom, um banco de dados relacional, representa uma coleção de tabelas relacionadas (bidimensionais). 
+As tabelas são semelhantes as tabelas do EXCEL, com número de linhas, também chamada de 'tuplas' ou 'registros' e colunas, também conhecido como 'campos' ou 'atributos'.
